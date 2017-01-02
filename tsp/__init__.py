@@ -1,0 +1,2 @@
+from tsp_ni import NearestInsertionSolver
+from tsp_nn import NearestNeighbourSolver
